@@ -1,0 +1,260 @@
+/* nav bar*/
+.nav {
+	position: fixed;
+	display: flex;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: yellow;
+	box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.4;
+	color: black;
+}
+
+.nav-list {
+	display: flex;
+	margin-right: 2rem;
+}
+.nav-list a {
+	padding: 2rem;
+}
+
+ul {
+	list-style: none;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+a {
+	text-decoration: none;
+}
+.logo {
+	height: 5rem;
+  	width: 5rem;
+}
+
+/*search bar*/
+*:focus {
+  outline: 0;
+}
+input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 100%;
+    background: url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+    border: none;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+    width: 15px;
+    padding: 9px 10px;
+    color: transparent;
+    cursor: pointer;
+  }
+  input[type=search]:focus {
+    width: 300px;
+    padding-left: 32px;
+    color: #000;
+    background-color: #FFCA28;
+    cursor: auto;
+    border-radius: 10em;
+    border-bottom: solid 1px #ccc;
+  }
+  input[type=search]:hover {
+    background-color: #FFCA28;
+  }
+  input:-moz-placeholder {
+    color: transparent;
+  }
+  input::-webkit-input-placeholder {
+    color: transparent;
+  }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    /* IE10+ CSS styles go here */
+    input[type=search] {
+      padding: 20px 20px;
+    }
+  }
+
+/* welcome section */
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: inherit;
+}
+/* slide show */
+/* Slideshow container */
+.slideshow-container {
+
+  width: 100%;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 1000px) {
+  .prev, .next,.text {
+  	font-size: 11px;
+  }
+}
+
+.mySlides {
+    display:none;
+}
+
+#slide1 {display:block}
+
+
+/* tabs */
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.tabs {
+	float: left;
+  	width: 50%;
+  	padding: 10px;
+  	width: 300px;
+  	grid-gap: 5rem;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#more {display: none;}
+
+.readmore {
+	float: left;
+	justify-content: center;
+	vertical-align: center;
+
+}

@@ -5,7 +5,7 @@ I'm a passionate programmer and tech enthusiast with a love for website developm
 ## 🔧 Skills
 
 - **Programming Languages:** Javascript, PHP
-- **Frameworks:** Laravel, Nodejs, React
+- **Frameworks:** Laravel, Nodejs, Next.js
 - **Tools & Technologies:** Linux
 
 ## 🚀 Projects

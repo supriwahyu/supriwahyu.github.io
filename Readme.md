@@ -5,28 +5,18 @@ I'm a passionate programmer and tech enthusiast with a love for website developm
 ## 🔧 Skills
 
 - **Programming Languages:** Javascript, PHP
-- **Frameworks:** Laravel, Nodejs, Next.js
+- **Frameworks:** Laravel, CodeIgniter, Nodejs, Next.js
 - **Tools & Technologies:** Linux
-
-## 🚀 Projects
-
-Here are a few projects I'm proud of:
-
-- [Project Name 1](link-to-project-1): A brief description of the project.
-- [Project Name 2](link-to-project-2): Another project you'd like to highlight.
-- [Project Name 3](link-to-project-3): Feel free to add more projects as needed.
-
-You can explore more of my work on [my portfolio website](link-to-portfolio) or on [my blog](link-to-blog) where I share insights into my coding journey and experiences.
 
 ## 📚 Learning
 
-I'm constantly learning and growing. Currently, I'm focusing on [specific skills or technologies you're learning].
+I'm constantly learning and growing. Currently, I'm focusing on website development.
 
 ## 💬 Let's Connect
 
-- **GitHub:** https://github.com/supriwahyu
 - **LinkedIn:** https://www.linkedin.com/in/supri-wahyu-edi-nugroho-256039143/
 - **Email:** supriwahyu95@gmail.com
+- **Instagram:** https://www.instagram.com/supri_wahyu_en/
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat.
 
@@ -35,5 +25,3 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just have 
 - When I'm not coding, you'll often find me in the virtual world of skyrim. 🌍🕹️
 
 Thanks for visiting my GitHub profile! 😄
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=supriwahyu.supriwahyu)

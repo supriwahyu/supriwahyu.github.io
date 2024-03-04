@@ -14,14 +14,8 @@ I'm constantly learning and growing. Currently, I'm focusing on website developm
 
 ## 💬 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/supri-wahyu-edi-nugroho-256039143/
 - **Email:** supriwahyu95@gmail.com
-- **Instagram:** https://www.instagram.com/supri_wahyu_en/
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat.
-
-## 🌟 Fun Facts
-
-- When I'm not coding, you'll often find me in the virtual world of skyrim. 🌍🕹️
 
 Thanks for visiting my GitHub profile! 😄

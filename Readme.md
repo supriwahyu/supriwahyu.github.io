@@ -1,21 +1,7 @@
-# Hello, I'm Supri wahyu edi nugroho 👋
+hi, yeah thats it all i say, im not very interested person, im not gonna describe myself here, well if you wondering why, all i will going to say is, i cannot, it is impossible someone to describe itself, no i mean not describe in general term, its pretty boring, all i going to say is the essence of its existential that cannot be describe.
 
-I'm a passionate programmer and tech enthusiast with a love for website development. Welcome to my GitHub profile, where you can explore my projects, contributions, and a glimpse into my coding journey.
+i just a man who stood on its own feet, yeah you may think its alone, but its depend of what deep is your meaning in life or your value of something, but its does not matter, its all awareness.
 
-## 🔧 Skills
+so what is the meaning or the purpose of it? all the joy and suffer we have been through? is it really matter? when we dont know the true meaning of it.
 
-- **Programming Languages:** Javascript, PHP
-- **Frameworks:** Laravel, CodeIgniter, Nodejs, Next.js
-- **Tools & Technologies:** Linux
-
-## 📚 Learning
-
-I'm constantly learning and growing. Currently, I'm focusing on website development.
-
-## 💬 Let's Connect
-
-- **Email:** supriwahyu95@gmail.com
-
-Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat.
-
-Thanks for visiting my GitHub profile! 😄
+<p align="center">"urip iku mung mampir ngombe"</p>

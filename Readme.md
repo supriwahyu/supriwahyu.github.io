@@ -1,5 +1,27 @@
-hi, yeah thats it all i say, im not very interested person, im not gonna describe myself here, well if you wondering why, all i will going to say is, i cannot, it is impossible someone to describe itself, no i mean not describe in general term, its pretty boring, all i going to say is the essence of its existential that cannot be describe.
+# Hello, fellow developers! 👋
 
-i just a man who stood on its own feet, yeah you may think its alone, but its depend of what deep is your meaning in life or your value of something, but its does not matter, its all awareness.
+I'm Supri wahyu, a versatile web developer proficient in both frontend and backend technologies, experienced in DevOps practices, and adept at deploying projects using various hosting solutions. Let's dive into my world of web development!
 
-so what is the meaning or the purpose of it? all the joy and suffer we have been through? is it really matter? when we dont know the true meaning of it.
+## About Me
+
+- 💻 Full-stack web developer with expertise in frontend (HTML, CSS, JavaScript) and backend (Node.js, Laravel, MongoDB, MySQL.) technologies.
+- 🚀 Experienced in DevOps practices, including CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes).
+- ☁️ Skilled in deploying projects using hosting platforms (e.g., Heroku, Netlify) and cloud services (e.g., AWS, Google Cloud Platform).
+- 🐧 Proficient with Linux operating systems, Bash scripting, and server administration.
+
+## What I Do
+
+- 🎨 Design and develop intuitive and responsive user interfaces using modern frontend frameworks like React and Vue.js.
+- 🛠️ Build robust backend APIs and services to power web applications, ensuring scalability, security, and performance.
+- 🚀 Implement CI/CD pipelines to automate the deployment process and ensure seamless integration and delivery of code changes.
+- ☁️ Deploy projects to hosting platforms or cloud services, optimizing for reliability, scalability, and cost-effectiveness.
+- 🐧 Utilize Linux operating systems and Bash scripting for server configuration, automation, and maintenance tasks.
+
+## Get in Touch
+
+- 📫 Email: [supriwahyu95@gmail.com](mailto:supriwahyu95@gmail.com)
+- 💼 LinkedIn: [SUpri wahyu edi N](https://id.linkedin.com/in/supri-wahyu-edi-n-256039143)
+- 🌐 Portfolio: [My Blogging Website](https://supri-wahyu.lovestoblog.com)
+- 🐦 Twitter: [Supri wahyu](https://twitter.com/wahyuununuk)
+
+Let's collaborate and build amazing web experiences together! 🚀✨

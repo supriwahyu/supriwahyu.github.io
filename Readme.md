@@ -20,8 +20,8 @@ I'm Supri wahyu, a versatile web developer proficient in both frontend and backe
 ## Get in Touch
 
 - 📫 Email: [supriwahyu95@gmail.com](mailto:supriwahyu95@gmail.com)
-- 💼 LinkedIn: [SUpri wahyu edi N](https://id.linkedin.com/in/supri-wahyu-edi-n-256039143)
-- 🌐 Portfolio: [My Blogging Website](https://supri-wahyu.lovestoblog.com)
-- 🐦 Twitter: [Supri wahyu](https://twitter.com/wahyuununuk)
+- 💼 LinkedIn: [supri wahyu edi N](https://id.linkedin.com/in/supri-wahyu-edi-n-256039143)
+- 🌐 Portfolio: [my blogging website](https://supri-wahyu.lovestoblog.com)
+- 🐦 Twitter: [supri wahyu](https://twitter.com/wahyuununuk)
 
 Let's collaborate and build amazing web experiences together! 🚀✨

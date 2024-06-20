@@ -25,3 +25,14 @@ I'm Supri wahyu, a versatile web developer proficient in both frontend and backe
 - 🐦 Twitter: [supri wahyu](https://twitter.com/wahyuununuk)
 
 Let's collaborate and build amazing web experiences together! 🚀✨
+
+<p align="center">
+<a href="">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supriwahyu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">Number of visitors since 2024</p>
+
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/hendriari/count.svg" alt="Visitor Count">
+</p>

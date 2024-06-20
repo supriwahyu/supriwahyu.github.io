@@ -34,5 +34,5 @@ Let's collaborate and build amazing web experiences together! 🚀✨
 <p align="center">Number of visitors since 2024</p>
 
   <p align="center">
-  <img src="https://profile-counter.glitch.me/hendriari/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/supriwahyu/count.svg" alt="Visitor Count">
 </p>

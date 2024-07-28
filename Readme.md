@@ -1,38 +1,30 @@
-# Hello, fellow developers! 👋
-
-I'm Supri wahyu, a versatile web developer proficient in both frontend and backend technologies, experienced in DevOps practices, and adept at deploying projects using various hosting solutions. Let's dive into my world of web development!
-
-## About Me
-
-- 💻 Full-stack web developer with expertise in frontend (HTML, CSS, JavaScript) and backend (Node.js, Laravel, MongoDB, MySQL.) technologies.
-- 🚀 Experienced in DevOps practices, including CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes).
-- ☁️ Skilled in deploying projects using hosting platforms (e.g., Heroku, Netlify) and cloud services (e.g., AWS, Google Cloud Platform).
-- 🐧 Proficient with Linux operating systems, Bash scripting, and server administration.
-
-## What I Do
-
-- 🎨 Design and develop intuitive and responsive user interfaces using modern frontend frameworks like React and Vue.js.
-- 🛠️ Build robust backend APIs and services to power web applications, ensuring scalability, security, and performance.
-- 🚀 Implement CI/CD pipelines to automate the deployment process and ensure seamless integration and delivery of code changes.
-- ☁️ Deploy projects to hosting platforms or cloud services, optimizing for reliability, scalability, and cost-effectiveness.
-- 🐧 Utilize Linux operating systems and Bash scripting for server configuration, automation, and maintenance tasks.
-
-## Get in Touch
-
-- 📫 Email: [supriwahyu95@gmail.com](mailto:supriwahyu95@gmail.com)
-- 💼 LinkedIn: [supri wahyu edi N](https://id.linkedin.com/in/supri-wahyu-edi-n-256039143)
-- 🌐 Portfolio: [my blogging website](https://supri-wahyu.lovestoblog.com)
-- 🐦 Twitter: [supri wahyu](https://twitter.com/wahyuununuk)
-
-Let's collaborate and build amazing web experiences together! 🚀✨
-
-<p align="center">
-<a href="">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supriwahyu&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p align="center">Number of visitors since 2024</p>
-
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/supriwahyu/count.svg" alt="Visitor Count">
-</p>
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMWocWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMk:MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNK0OOOOOOOx:O00KNWMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWKkoc::cloO0K000;O0OkxodxxkOO0XWMMMMMMMMMMMMMM
+MMMMMMMMMMMMKxc;;:cllllldxkxxxlkkkkOOOkxdoolccdKWMMMMMMMMMMM
+MMMMMMMMMMNOl;;:cldddooxk00000KKKK0000OxxdoollcclOWMMMMMMMMM
+MMMMMMMMMKl,,;:cooooodkO0000000OOkddxxddoolcccc:::cXMMMMMMMM
+MMMMMMMWd'.',:clooodxxxxdddooollclllloooollc::::::;;KMMMMMMM
+MMMMMMMx..',;::cccllloolllc:c::;;::::cllllccc:c:::;,;WMMMMMM
+MMMMMMX..',,,;::::::lllc::::::;,;;;:::ccccccc::::;;,'xMMMMMM
+MMMMMMx.'',,;;c::clllc:;;;;;;;;;,,;;:::::c:c:::;;;,,':MMMMMM
+MMMMMMd.',;;::;::ccc::;,;,,,,,,,;,;;:::;;::;:::;;;,,,,WMMMMM
+MMMMMMk.',,,;:;;;;::,;;',;;,,,,,,,;;;::;:::::c::;,;,,,WMMMMM
+MMMMMMK.',,,::;;,;;,',;';,,,,;;;,'',,:::c:;::c:;;,;;,cMMMMMM
+MMMMMMM:';;:cc:::::c,;;;,,,;;;;;;:;;;:::cc::c::::;:;,kMMMMMM
+MMMMMMM0,;::c:cccccc:;:::::::c:;::c::::cclcllllcc:;:cWMMMMMM
+MMMMMMMMx:ccccccc:ccc::ccccccccccccccccllllllllllc::KMMMMMMM
+MMMMMMMMMkllccccccccccccccccc:llclcclclllllolooooooXMMMMMMMM
+MMMMMMMMMMOolclccccccc:ccc:cllcllllllllolllllllldkNMMMMMMMMM
+MMMMMMMMMMMKollccccccc:c::cccccclcclllllolllllloOWMMMMMMMMMM
+MMMMMMMMMMMMNxlcccc:cc::cccccccclccclllllcccccdXMMMMMMMMMMMM
+MMMMMMMMMMMMMMKocc::::::::::cc:ccccclc::::::oKMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWKd:;;;;;,;;;;::;,::c::;;;cxXMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMWXkl:;,,''''''''',,,,;cxXWMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWWNNXKK00OOOOOO00KXNWMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

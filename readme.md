@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
-  <p>
+  <div>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriwahyu&langs_count=12)
-  <p/>
+  <div/>
   <p>
   Hello, I'm Supri wahyu!
 

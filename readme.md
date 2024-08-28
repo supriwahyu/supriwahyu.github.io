@@ -1,9 +1,5 @@
-<div style="display: flex; justify-content: center;">
-  <div>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriwahyu&langs_count=12)
-  <div/>
-  <p>
-  Hello, I'm Supri wahyu!
+<p>Hello, I'm Supri wahyu!
 
 I'm a passionate Full-Stack Web Developer with a knack for crafting dynamic and efficient web applications. With a solid foundation in both front-end and back-end technologies, I thrive on solving complex problems and delivering high-quality solutions.
 🔧 Technical Skills:
@@ -27,6 +23,4 @@ I’m driven by the challenge of translating complex requirements into seamless 
     Enhancing my DevOps skills with advanced automation techniques.
     Exploring the latest trends in web technologies and incorporating them into my projects.
 
-Feel free to browse my repositories and reach out if you’d like to collaborate or discuss potential opportunities!
-  </p>
-</div>
+Feel free to browse my repositories and reach out if you’d like to collaborate or discuss potential opportunities!</p>

@@ -23,5 +23,7 @@ I’m driven by the challenge of translating complex requirements into seamless 
     Exploring the latest trends in web technologies and incorporating them into my projects.
 
 Feel free to browse my repositories and reach out if you’d like to collaborate or discuss potential opportunities!</p>
-  <embed type="text/html" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriwahyu&langs_count=12"  width="300" height="500">
+  <div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=supriwahyu&langs_count=12
+  </div>
 </div>
